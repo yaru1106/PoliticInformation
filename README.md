@@ -1,7 +1,7 @@
-# 政治與資訊教材區
+# Teaching material for the politic and information courses
 
 **Week4 files**  
 <oi>
-<li>example_0323.ipynb - 基本資料結構介紹、資料擷取、表格整理與圖像化</li>    
-<li>qsearch.ipynb -  Qsearch介紹</li>  
+<li>example_0323.ipynb - Basic Data structure introduction (Python), Data tabulation and visualization</li>    
+<li>qsearch.ipynb - Qsearch introduction</li>  
 </oi>
